@@ -1,0 +1,33 @@
+GAMMA: Pablo Alberto Cugliari
+BETA: Matias Acosta
+ALFA: Luca Mendez
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+AZUL
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+AMARILLO
+C- ¿Qué color de fondo tiene su página en el MASTER?
+AZUL
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+favicon de BETA
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+Beta y Gamma
+
+F- ¿Qué problemas surgieron?
+El unico problema que genero fue el de los conflictos
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+Esto lo solucionamos arreglando el conflicto de manera manual en el archivo, haciendo un nuevo commit y 
+subiendo los cambios.
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+Sube el commit de manera forzada ignorando los conflictos
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+Nosotros para tener la info de los puntos mencionados, hicimos un pull trayendo los cambios del compañero
+anterior,resolvimos los conflicos en los archivos afectados, realizamos un nuevo commit y haciendo push.
+
+Excelente...
